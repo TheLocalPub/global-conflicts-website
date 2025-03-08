@@ -22,6 +22,7 @@ By joining Global Conflicts, you agree to the above and below while part of our 
  - Do not backseat command.
  - Listen to leadership and orders.
  - Do not spam drawings or map markers within the playable map - SFW drawings permitted outside of the playable map space.
+ - Do not intentionally remove your issued equipment such as trousers, shirts, helmets, or similar - Doing so *has* and *will* cause you to expose your location easily which is unfair on other users.
  - Do not use enemy equipment or assets, unless authorized or in a 'life of death' situation.
    - Do not use vehicles and assets that would require specialized training that your current role does not have. Example: A rifleman crewing a tank.
  - Do not talk/speak/shout excessively loud.
