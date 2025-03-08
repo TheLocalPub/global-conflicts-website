@@ -22,12 +22,8 @@
       "title": "Technical Support",
       "children": [
          {
-            "title": "Swifty launcher guide",
-            "slug": "swifty"
-         },
-         {
-            "title": "Teamspeak guide",
-            "slug": "teamspeak"
+            "title": "FAQ",
+            "slug": "FAQ"
          }
       ],
       "type": "section"
@@ -57,14 +53,6 @@
          {
             "title": "Anti tank/air launchers",
             "slug": "launchers"
-         },
-          {
-            "title": "60mm mortar guide",
-            "slug": "60mmGuide"
-         },
-          {
-            "title": "Vector guide",
-            "slug": "vector"
          }
       ],
       "type": "section"
