@@ -248,8 +248,8 @@ function Home() {
                             <div className="flex-1 pr-5 prose prose-xl md:prose-lg lg:prose-xl min-w-300 ">
                                 <h2>Requirements </h2>
                                 <p>
-                                    We don't have any pre-requisites besides a working microphone and
-                                    a mature attitude. All we ask is that you follow our SOPs and make
+                                    We don't have any pre-requisites besides a working microphone, ability to speak 
+                                    English, and a mature attitude. We ask that you follow our standards and make
                                     friends, not enemies!
                                 </p>
                                 <p>No attendence requirements or mandatory training.</p>
@@ -275,7 +275,7 @@ function Home() {
                             <div className="p-5 prose lg:prose-xl">
 
                                 <Link
-                                    href="https://github.com/Global-Conflicts-ArmA/Olsen-Framework-Arma-3"
+                                    href="https://reforger.armaplatform.com/workshop/61F0E6AB2D06B1C6-TilWMissionFramework"
                                     passHref={true}
                                     className="no-underline-important underline-important-hover"
                                     legacyBehavior>
@@ -289,7 +289,7 @@ function Home() {
                                     without re-inventing common scripts (e.g. gear or a capture zone).
                                 </p>
                                 <Link
-                                    href="https://aar.globalconflicts.net/"
+                                    href="https://discord.com/channels/635885194288562206/1336073901553483836"
                                     passHref={true}
                                     className="no-underline-important underline-important-hover"
                                     legacyBehavior>
@@ -299,7 +299,7 @@ function Home() {
                                 </Link>
                                 <p>
                                     After each session, an After Action Report thread is created on Discord where players are 
-                                    encouraged to give feedback to eachother and discuss the session. 
+                                    encouraged to give feedback to each other and discuss the session. 
                                 </p>
                             </div>
                         </div>
