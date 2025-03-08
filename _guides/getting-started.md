@@ -35,7 +35,15 @@ We recommend taking an entry role or a basic command role like Team leader/2IC f
 ### Your first time playing
 
 [![Click this to watch a video guide](https://i.imgur.com/0BDxPYj.jpeg)](https://www.youtube.com/watch?v=_SW1tEkcfRU)
+**Click the photo above to be taken to a video guide**
 
 
 1. Ideally join the Reforger server at 2000UTC so an appropriate player count mission can be chosen. (Although you can join anytime)<br/>
-2. Once you join the server wait patiently
+2. Once you join the server wait patiently for a Game Moderator (GM) to give instructions to the lobby.
+3. A commander for the team(s) will be called by the GM.
+4. Once a commander has be joined each the team(s), any player who had previously led in a Squad leader + role, will be allowed to choose a role in the new mission of their choice, followed by what the commander asks the remaining player to fill/take.
+5. The game moderator will check with each commander if they are happy with their team and will then take it through to the brieifing screen.
+6. Each commander has a maximum of 15mins to formulate and briefing their team on the misson we're playing - Each mission has a unquie brief anyone can read in the lobby with your objectives and such.
+7. After 15mins the game moderator will take the lobby in-game, where the mission becomes live and gameplay start.
+
+Simply follow your leadership, follow the rules, and ultimately.. have fun!
