@@ -53,6 +53,10 @@
          {
             "title": "Anti tank/air launchers",
             "slug": "launchers"
+         },
+         {
+            "title": "Mortars",
+            "slug": "mortarguide"
          }
       ],
       "type": "section"
